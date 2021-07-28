@@ -1,0 +1,85 @@
+/* 
+It takes a long time to become a good competitive programmer, but it is also an
+opportunity to learn a lot. You can be sure that you will get a good general
+understanding of algorithms if you spend time reading the book, solving problems,
+and taking part in contests.
+*/
+
+/*
+The core directive in ‘Competitive Programming’ is this: “Given well-known Computer
+Science (CS) problems, solve them as quickly as possible!”.
+Let’s digest the terms one by one. The term ‘well-known CS problems’ implies that in
+competitive programming, we are dealing with solved CS problems and not research problems
+(where the solutions are still unknown). Some people (at least the problem author) have
+definitely solved these problems before. To ‘solve them’ implies that we must push our CS
+knowledge to a certain required level so that we can produce working code that can solve
+these problems too—at least in terms of getting the same output as the problem author
+using the problem author’s secret test data within the stipulated time limit. The need to
+solve the problem ‘as quickly as possible’ is where the competitive element lies—speed is a
+very natural goal in human behavior.
+*/
+
+/*
+ note that being well-versed in competitive programming is not the end goal, but
+only a means to an end. The true end goal is to produce all-rounder computer scientists/
+programmers who are much readier to produce better software and to face harder CS
+research problems in the future.
+*/
+
+/*
+Use Google to find some tutorials and read them. Solve problems on that topic. After a 
+while, go back to solving random problems. You should now be able to recognize similar 
+problems and apply the new algorithm/technique you learned.
+
+For smaller algorithms/techniques, it's enough to solve a few problems to understand 
+it well enough. In case of big topics (categories) like dynamic programming, you should 
+solve tens of problems. But don't spend months on that because you cheat a little bit by 
+knowing what you should use in a problem. When you read a problem during a contest, you 
+don't know its tags/topics. Sometimes the hard part is to come up with what you should use. 
+Recognizing patterns is a valuable skill and that's why you need to mainly solve random problems.
+*/
+
+/*
+An experienced problem solver, in contrast, is rarely at a loss for how to begin investigating a problem. He or she l confidently tries a number of approaches to get started. 
+This may not solve the problem, but some progress is made. Then more specific techniques come into play. Eventually, at least some of the time, the problem is resolved. 
+The experienced problem solver operates on three different levels:
+
+Strategy: Mathematical and psychological ideas for starting and pursuing 
+problems.
+
+Tactics : Diverse mathematical methods that work in many different settings.
+
+Tools : Narrowly focused techniques and "tricks" for specific situations.
+*/
+
+/*
+there are two parts to any successful solution: the investigation 
+and the argument. Commonly, the investigation is obscured by the polished formal 
+solution argument. But almost always, the investigation is the heart of the solution. 
+Investigations are often tortuous, full of wrong turns and silly misconceptions. Once 
+the problem is solved, it is easy to look over your prolonged investigation and wonder 
+why it took you so long to see the light. But that is the nature of problem solving for 
+almost everyone: you don 't get rewarded with the flash of insight until you have paid 
+your dues by prolonged, sometimes fruitless toil. Therefore,
+
+Anything that stimulates investigation is good.
+
+*/
+
+--------------------------------------------------------------------------------
+/*
+It takes a lot of practice to be good at CP, but it's also an opportunity to learn a lot!!
+*/
+
+/*
+We don't need the memories!!
+*/
+
+/*
+Time spent thinking about a problem is always time worth spent. Even 
+if you seem to make no progress at all. 
+*/
+
+/*
+Have you found the limits of your abilities? Even though your body, technique and mind haven't been perfected? People who are naturally better than you have been different from you since the day you were born. No matter how hard you work, you can't change that. You can complain after you've done everything that you possibly can. Rather than despairing and giving up because you're not a genius, believe that this isn't the limit of your strength and continue on the path straight ahead of you. It may be a harsh road. Talent is something you're born with but Instinct is something you polish!
+*/
