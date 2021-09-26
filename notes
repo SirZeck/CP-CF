@@ -1,0 +1,14 @@
+/* file I/O */
+#ifndef ONLINE_JUDGE
+ 
+    // For getting input from input.txt file
+    freopen("input.txt", "r", stdin);
+ 
+    // Printing the Output to output.txt file
+    freopen("output.txt", "w", stdout);
+ 
+#endif
+
+/*
+C:\Users\ADIT\AppData\Roaming\Sublime Text 3\Packages\User
+*/

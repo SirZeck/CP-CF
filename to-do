@@ -54,12 +54,8 @@ Tools : Narrowly focused techniques and "tricks" for specific situations.
 
 /*
 there are two parts to any successful solution: the investigation 
-and the argument. Commonly, the investigation is obscured by the polished formal 
-solution argument. But almost always, the investigation is the heart of the solution. 
-Investigations are often tortuous, full of wrong turns and silly misconceptions. Once 
-the problem is solved, it is easy to look over your prolonged investigation and wonder 
-why it took you so long to see the light. But that is the nature of problem solving for 
-almost everyone: you don 't get rewarded with the flash of insight until you have paid 
+and the argument. Commonly, the investigation is obscured by the polished formal solution argument. But almost always, the investigation is the heart of the solution. 
+Investigations are often tortuous, full of wrong turns and silly misconceptions. Once the problem is solved, it is easy to look over your prolonged investigation and wonder why it took you so long to see the light. But that is the nature of problem solving for almost everyone: you don't get rewarded with the flash of insight until you have paid 
 your dues by prolonged, sometimes fruitless toil. Therefore,
 
 Anything that stimulates investigation is good.
@@ -76,10 +72,23 @@ We don't need the memories!!
 */
 
 /*
-Time spent thinking about a problem is always time worth spent. Even 
-if you seem to make no progress at all. 
+Time spent thinking about a problem is always time worth spent. 
+Even if you seem to make no progress at all. 
+*/
+
+/*
+Sometimes you have a step away from the problem and look at it from a different perspective to actually solve it.
 */
 
 /*
 Have you found the limits of your abilities? Even though your body, technique and mind haven't been perfected? People who are naturally better than you have been different from you since the day you were born. No matter how hard you work, you can't change that. You can complain after you've done everything that you possibly can. Rather than despairing and giving up because you're not a genius, believe that this isn't the limit of your strength and continue on the path straight ahead of you. It may be a harsh road. Talent is something you're born with but Instinct is something you polish!
 */
+
+-------------------------------------------------------------
+
+/* Projects */
+
+1. GDrive Clone
+2. Reddit Clone
+3. Online Judge
+4. Project Nayuki
